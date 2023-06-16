@@ -82,5 +82,170 @@
       "name": "kate hale",
       "phone": "1-678-456-1934"
     }
+  ],
+  "growUser": [{}],
+  "ieData": [
+    {
+      "id": 1,
+      "company_Name": "Masai pvt. ltd.",
+      "category": "Investor",
+      "name": "Prateek Shukla",
+      "email": "prateek@gmail.com",
+      "phone": "9948383838"
+    },
+    {
+      "id": 2,
+      "company_Name": "Paypal pvt. ltd.",
+      "category": "Investor",
+      "name": "Dan Schulman",
+      "email": "dan@gmail.com",
+      "phone": "1-567-094-1346"
+    },
+    {
+      "id": 3,
+      "company_Name": "Netflix pvt. ltd.",
+      "category": "Investor",
+      "name": "Greg Peters",
+      "email": "gerg@gmail.com",
+      "phone": "1-567-094-1347"
+    },
+    {
+      "id": 4,
+      "company_Name": "Amazon pvt. ltd.",
+      "category": "Investor",
+      "name": "Andy Jassy",
+      "email": "andy@gmail.com",
+      "phone": "1-567-094-1348"
+    },
+    {
+      "id": 5,
+      "company_Name": "Flipkart pvt. ltd.",
+      "category": "Investor",
+      "name": "Kalyan Krishnamurthy",
+      "email": "kalyan@gmail.com",
+      "phone": "1-567-094-1349"
+    },
+    {
+      "id": 6,
+      "company_Name": "TCS pvt. ltd.",
+      "category": "Investor",
+      "name": "K. Krithivasan",
+      "email": "krithi@gmail.com",
+      "phone": "1-567-094-1350"
+    },
+    {
+      "id": 7,
+      "company_Name": "Infosys pvt. ltd.",
+      "category": "Investor",
+      "name": "Salil Parekh",
+      "email": "salil@gmail.com",
+      "phone": "1-567-094-1351"
+    },
+    {
+      "id": 8,
+      "company_Name": "Paytm pvt. ltd.",
+      "category": "Investor",
+      "name": "Vijay Shekhar Sharma",
+      "email": "vijay@gmail.com",
+      "phone": "1-567-094-1352"
+    },
+    {
+      "id": 9,
+      "company_Name": "Google pvt. ltd.",
+      "category": "Investor",
+      "name": "Sundar Pichai",
+      "email": "sundar@gmail.com",
+      "phone": "1-567-094-1353"
+    },
+    {
+      "id": 10,
+      "company_Name": "Meta pvt. ltd.",
+      "category": "Investor",
+      "name": "Mark Zuckerberg",
+      "email": "mark@gmail.com",
+      "phone": "1-567-094-1354"
+    },
+    {
+      "id": 11,
+      "company_Name": "Microsoft pvt. ltd.",
+      "category": "Entrepreneur",
+      "name": "Satya Nadella",
+      "email": "satya@gmail.com",
+      "phone": "1-567-094-1355"
+    },
+    {
+      "id": 12,
+      "company_Name": "Zomato pvt. ltd.",
+      "category": "Entrepreneur",
+      "name": "Deepinder Goyal",
+      "email": "goyal@gmail.com",
+      "phone": "1-567-094-1356"
+    },
+    {
+      "id": 13,
+      "company_Name": "Swiggy pvt. ltd.",
+      "category": "Entrepreneur",
+      "name": "Sriharsha Majety",
+      "email": "majety@gmail.com",
+      "phone": "1-567-094-1357"
+    },
+    {
+      "id": 14,
+      "company_Name": "Reliance pvt. ltd.",
+      "category": "Entrepreneur",
+      "name": "Mukesh D. Ambani",
+      "email": "mukesh@gmail.com",
+      "phone": "1-567-094-1358"
+    },
+    {
+      "id": 15,
+      "company_Name": "Oracle pvt. ltd.",
+      "category": "Entrepreneur",
+      "name": "Safra Catz",
+      "email": "safra@gmail.com",
+      "phone": "1-567-094-1359"
+    },
+    {
+      "id": 16,
+      "company_Name": "Boat pvt. ltd.",
+      "category": "Entrepreneur",
+      "name": "Vivek Gambhir",
+      "email": "vivek@gmail.com",
+      "phone": "1-567-094-1360"
+    },
+
+    {
+      "id": 17,
+      "company_Name": "Sharechat pvt. ltd.",
+      "category": "Entrepreneur",
+      "name": "Ankush Sachdeva",
+      "email": "anshul@gmail.com",
+      "phone": "1-567-094-1361"
+    },
+    {
+      "id": 18,
+      "company_Name": "Linkedin pvt. ltd.",
+      "category": "Entrepreneur",
+      "name": "Ryan Roslansky",
+      "email": "ryan@gmail.com",
+      "phone": "1-567-094-1362"
+    },
+
+    {
+      "id": 19,
+      "company_Name": "Twitter pvt. ltd.",
+      "category": "Entrepreneur",
+      "name": "Linda Yaccarino",
+      "email": "linda@gmail.com",
+      "phone": "1-567-094-1363"
+    },
+    {
+      "id": 20,
+      "company_Name": "Shadi.com",
+      "category": "Entrepreneur",
+      "name": "Anupam Mittal",
+      "email": "anupam@gmail.com",
+      "phone": "1-567-094-1364"
+    }
   ]
 }
