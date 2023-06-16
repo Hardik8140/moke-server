@@ -83,7 +83,13 @@
       "phone": "1-678-456-1934"
     }
   ],
-  "growUser": [{}],
+  "growUser": [
+    {
+      "id": 1,
+      "email": "anupam@gmail.com",
+      "category": "Investor"
+    }
+  ],
   "ieData": [
     {
       "id": 1,
