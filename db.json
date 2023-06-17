@@ -81,6 +81,14 @@
       "password": "kfejk@*_",
       "name": "kate hale",
       "phone": "1-678-456-1934"
+    },
+    {
+      "id": 11,
+      "email": "admin@gmail.com",
+      "username": "kate_h",
+      "password": "admin",
+      "name": "kate hale",
+      "phone": "1-678-456-1934"
     }
   ],
   "growUser": [
