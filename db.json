@@ -500,5 +500,18 @@
       "stars": 4
     }
   ],
-  "address": [{}]
+  "address": [
+    {
+      "id": 1,
+      "country": "india",
+      "fullName": "Hardik Gajera",
+      "mobileNumber": 8849619764,
+      "pincode": "323232",
+      "addressLine1": "302, anushruti tower, newr thaltej cross road",
+      "addressLine2": "Thaltej, Ahmedabad, Gujarat",
+      "landmark": "near binory hotel",
+      "towncity": "Ahmedabad",
+      "state": "Gujarat"
+    }
+  ]
 }
