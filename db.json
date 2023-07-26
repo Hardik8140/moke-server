@@ -137,7 +137,7 @@
       "price": "1749",
       "category": "Men's Shoes",
       "rating": 45242,
-      "star": 3.5
+      "star": 3
     },
     {
       "id": 5,
@@ -147,7 +147,7 @@
       "price": "3196",
       "category": "Men's Shoes",
       "rating": 35634,
-      "star": 4.5
+      "star": 4
     },
     {
       "id": 6,
@@ -157,7 +157,7 @@
       "price": "891",
       "category": "Men's Shoes",
       "rating": 23255,
-      "star": 3.5
+      "star": 3
     },
     {
       "id": 7,
@@ -207,7 +207,7 @@
       "price": "599",
       "category": "Women's Shoes",
       "rating": 24643,
-      "star": 4.5
+      "star": 4
     },
     {
       "id": 12,
@@ -227,7 +227,7 @@
       "price": "1740",
       "category": "Women's Shoes",
       "rating": 46643,
-      "star": 4.5
+      "star": 4
     },
     {
       "id": 14,
@@ -277,7 +277,7 @@
       "price": "1735",
       "category": "Tech",
       "rating": 42454,
-      "star": 3.5
+      "star": 3
     },
     {
       "id": 19,
@@ -297,7 +297,7 @@
       "price": "3699",
       "category": "Women's Shoes",
       "rating": 23234,
-      "star": 4.5
+      "star": 4
     },
     {
       "id": 21,
@@ -327,7 +327,7 @@
       "price": "22990",
       "category": "Tech",
       "rating": 34353,
-      "star": 3.5
+      "star": 3
     },
     {
       "id": 24,
@@ -347,7 +347,7 @@
       "price": "3196",
       "category": "Women's Shoes",
       "rating": 23523,
-      "star": 4.5
+      "star": 4
     },
     {
       "id": 26,
@@ -407,7 +407,7 @@
       "price": "3109",
       "category": "Women's Shoes",
       "rating": 45232,
-      "star": 3.5
+      "star": 3
     },
     {
       "id": 32,
@@ -417,7 +417,7 @@
       "price": "5599",
       "category": "Men's Shoes",
       "rating": 12123,
-      "star": 4.5
+      "star": 4
     },
     {
       "id": 33,
@@ -427,7 +427,7 @@
       "price": "1539",
       "category": "Women's Shoes",
       "rating": 32255,
-      "star": 4.5
+      "star": 4
     },
     {
       "id": 34,
@@ -457,7 +457,7 @@
       "price": "1499",
       "category": "Tech",
       "rating": 45787,
-      "star": 4.5
+      "star": 4
     },
     {
       "id": 37,
@@ -477,7 +477,7 @@
       "price": "2298",
       "category": "Tech",
       "rating": 43654,
-      "star": 3.5
+      "star": 3
     },
     {
       "id": 39,
@@ -487,7 +487,7 @@
       "price": "3599",
       "category": "Women's Shoes",
       "rating": 23657,
-      "star": 4.5
+      "star": 4
     },
     {
       "id": 40,
